@@ -36,7 +36,7 @@ function App() {
     <div className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat" style={{backgroundImage: `url('https://static.vecteezy.com/system/resources/thumbnails/026/602/799/original/stock-market-abstract-finance-background-with-motion-graph-charts-diagrams-of-financial-statistics-4k-resolution-video.jpg')`}}>
       <div className="w-full">
         <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
-        <h1 className="text-center text-2xl font-bold mb-5 text-color text-white ">Currency Converter !</h1>
+        <h1 className="text-center text-2xl font-bold mb-5 text-color text-white ">Currency Convertor !</h1>
           <form
             onSubmit={(e) => {
               e.preventDefault();
